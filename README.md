@@ -274,26 +274,4 @@ This exact workflow is automated in [`scripts/python_wsl_workflow.sh`](scripts/p
 - [Microsoft Learn — Install WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
 - [Microsoft Learn — Basic WSL commands](https://learn.microsoft.com/en-us/windows/wsl/basic-commands)
 
----
 
-## Repo Contents
-
-```
-linux-cli-wsl-research/
-├── README.md                       # this file
-└── scripts/
-    ├── linux_commands_demo.sh      # hands-on demo covering navigation, file ops, text
-    │                                 processing, system/process info, permissions, and
-    │                                 search — one command from every category above, plus
-    │                                 a few extras (rmdir, cp -r, ln -s, less, head/tail,
-    │                                 wc, sort, uniq, diff, ps, top, kill, du, free, chown,
-    │                                 which, man)
-    └── python_wsl_workflow.sh      # automates the workflow in section 10
-```
-
-Run either script inside WSL/Linux:
-
-```bash
-bash scripts/linux_commands_demo.sh
-bash scripts/python_wsl_workflow.sh
-```
