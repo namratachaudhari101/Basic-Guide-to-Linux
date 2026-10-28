@@ -1,4 +1,4 @@
-# Linux, CLI & WSL — Research Notes (Day 3)
+# Linux, CLI & WSL — Research Notes (Week 3)
 
 **Internship task:** ApexaiQ Technologies Pvt. Ltd. — Software Development Intern
 **Topic:** Research and understand Linux, the Command-Line Interface (CLI), and WSL (Windows Subsystem for Linux)
